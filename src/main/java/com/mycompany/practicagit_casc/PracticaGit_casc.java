@@ -12,6 +12,7 @@ public class PracticaGit_casc {
 
     public static void main(String[] args) {
         System.out.println("Sistema de gestión");
+        System.out.println("Bienvenido, usuario estudiante.");
         
    
         
